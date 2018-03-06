@@ -1,5 +1,11 @@
 .container{
   max-width: 600px;
   margin: auto;
-  background-color: #F5F5DC;
+  background-color: #F0FFFF;
+  padding: 20px;
+  
+}
+
+body {
+  background: #5F9EA0;
 }

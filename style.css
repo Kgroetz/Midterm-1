@@ -4,8 +4,25 @@
   background-color: #F0FFFF;
   padding: 20px;
   border: solid #008B8B;
+  overflow: auto;
 }
 
 body {
   background: #5F9EA0;
 }
+
+* {box-sizing: border-box;
+}
+
+
+.left-column{
+  width: 50%;
+  float: left;
+  padding-right: 20px;
+}
+
+.right-column{
+  width: 50%;
+  float: left;
+  padding-left: 20px;
+  }

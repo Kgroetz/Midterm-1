@@ -24,6 +24,13 @@ body {
   background: #5F9EA0;
 }
 
+@media(max-width: 650px) {
+.right-column{
+  border-top: dotted;
+  /* added border bw lists when shown on small screen*/
+}
+}
+
 
 @media(min-width: 650px) {
 

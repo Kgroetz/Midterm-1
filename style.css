@@ -19,6 +19,7 @@ img{
   max-width: 100%;
   /* fixed image from overflowing container */
   border: solid #008B8B;
+  /* added border to image */
 }
 
 body {

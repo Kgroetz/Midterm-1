@@ -10,7 +10,9 @@
   border: solid #008B8B;
   overflow: auto;
   font-family: helvetica, sans serif;
-/* set font to helvetica w backup option */
+  /* set default font to helvetica w backup option */
+  color: #404040
+  /* set default font color to dark gray */
 }
 
 img{

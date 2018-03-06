@@ -9,10 +9,13 @@
   padding: 20px;
   border: solid #008B8B;
   overflow: auto;
+  font-family: helvetica, sans serif;
+/* set font to helvetica w backup option */
 }
 
 img{
   max-width: 100%;
+  /* fixed image from overflowing container */
 }
 
 body {

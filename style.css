@@ -38,6 +38,8 @@ body {
   width: 50%;
   float: left;
   padding-right: 20px;
+  border-right: dotted;
+  /* added border bw lists when shown on large screen*/
 }
 
 .right-column{
